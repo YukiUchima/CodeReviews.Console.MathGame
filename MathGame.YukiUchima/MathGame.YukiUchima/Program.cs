@@ -1,4 +1,4 @@
-﻿namespace YukiUchima.MathGame
+﻿namespace MathGame.YukiUchima
 {
     internal class Program
     {
